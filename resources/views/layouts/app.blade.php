@@ -31,7 +31,7 @@
 
         @livewireStyles
     </head>
-    <body class="min-h-screen bg-zinc-200 text-zinc-800 dark:bg-zinc-800 dark:text-zinc-200 antialiased">
+    <body class="min-h-screen bg-zinc-200 dark:bg-zinc-800 text-zinc-800  dark:text-zinc-200 antialiased">
         <livewire:theme-switcher />
 
         {{ $slot }}
